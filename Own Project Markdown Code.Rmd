@@ -1,8 +1,9 @@
 ---
-title: "Own Project edX"
-author: "Nelson Chacon"
+title: "Predicting Labour Informality"
+author: "Nelson Chacon Rendon"
 date: "12/16/2020"
 output: pdf_document
+toc: true
 ---
 
 ```{r setup, include=FALSE}
@@ -28,3 +29,7 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Introduction
+
+Here my intro
